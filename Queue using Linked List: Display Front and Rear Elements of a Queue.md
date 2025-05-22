@@ -34,11 +34,11 @@ To write a Python program to:
       queue.append('b')
       queue.append('c')
       queue.append('d')
-      print('Initial Queue: ' + str(queue))
+      print('Initial Queue: ' ,str(queue))
       front=queue[0]
       rear=queue[3]
-      print("\nElement at the front of the queue is..... ", front)
-      print("\nElement at the rear of the queue is .....", rear)
+      print("\nElement at the front of the queue is.... ", front)
+      print("\nElement at the rear of the queue is ....", rear)
 
 
 ## Output
