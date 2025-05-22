@@ -36,7 +36,7 @@ To write a Python program to:
       queue.append('d')
       print('Initial Queue: ' ,queue)
       front=queue[0]
-      rear=queue[3]
+      rear=queue[-1]
       print("\nElement at the front of the queue is.... ", front)
       print("\nElement at the rear of the queue is ....", rear)
 
